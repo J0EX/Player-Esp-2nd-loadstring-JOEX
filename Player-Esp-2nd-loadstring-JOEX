@@ -52,3 +52,4 @@ end
 adornR15Parts()
 
 workspace.DescendantAdded:Connect(onDescendantAdded)
+
